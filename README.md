@@ -7,7 +7,6 @@ How to Reach Me!
 [![Mail Badge](https://img.shields.io/badge/-OblivionGhoul-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsvpxb0I459H_D6TRwQB1bg/featured) [![Mail Badge](https://img.shields.io/badge/-@minh.kien.dinh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/minh.kien.dinh) [![Mail Badge](https://img.shields.io/badge/-GhoulOblivion-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ghouloblivion@gmail.com)
 
 - 🤖 Invite my Discord bot to your server [here](https://discord.com/api/oauth2/authorize?client_id=757066313406611477&permissions=1580723318&scope=bot).
-- 😎 Join my discord server [here](https://discord.com/invite/agVDGxS9FN).
 - 🔫 I like to play video games like Valorant and R6. 
 - 📫 How to reach me: ghouloblivion@gmail.com.
 - 📷 I enjoy taking pictures.
